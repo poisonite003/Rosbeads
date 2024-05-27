@@ -1,0 +1,646 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4B95C12B2C0416B2006A5929 /* Peristiwa2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1252C0416B2006A5929 /* Peristiwa2.m4a */; };
+		4B95C12C2C0416B2006A5929 /* Peristiwa2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1252C0416B2006A5929 /* Peristiwa2.m4a */; };
+		4B95C12D2C0416B2006A5929 /* Peristiwa5.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1262C0416B2006A5929 /* Peristiwa5.m4a */; };
+		4B95C12E2C0416B2006A5929 /* Peristiwa5.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1262C0416B2006A5929 /* Peristiwa5.m4a */; };
+		4B95C12F2C0416B2006A5929 /* Pertistiwa3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1272C0416B2006A5929 /* Pertistiwa3.m4a */; };
+		4B95C1302C0416B2006A5929 /* Pertistiwa3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1272C0416B2006A5929 /* Pertistiwa3.m4a */; };
+		4B95C1312C0416B2006A5929 /* Salam ya Ratu.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1282C0416B2006A5929 /* Salam ya Ratu.m4a */; };
+		4B95C1322C0416B2006A5929 /* Salam ya Ratu.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1282C0416B2006A5929 /* Salam ya Ratu.m4a */; };
+		4B95C1332C0416B2006A5929 /* Peristiwa1.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1292C0416B2006A5929 /* Peristiwa1.m4a */; };
+		4B95C1342C0416B2006A5929 /* Peristiwa1.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1292C0416B2006A5929 /* Peristiwa1.m4a */; };
+		4B95C1352C0416B2006A5929 /* Peristiwa4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C12A2C0416B2006A5929 /* Peristiwa4.m4a */; };
+		4B95C1362C0416B2006A5929 /* Peristiwa4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C12A2C0416B2006A5929 /* Peristiwa4.m4a */; };
+		4B95C1492C0419D5006A5929 /* Peristiwa5Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1442C0419D5006A5929 /* Peristiwa5Sedih.m4a */; };
+		4B95C14A2C0419D5006A5929 /* Peristiwa5Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1442C0419D5006A5929 /* Peristiwa5Sedih.m4a */; };
+		4B95C14B2C0419D5006A5929 /* Peristiwa3Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1452C0419D5006A5929 /* Peristiwa3Sedih.m4a */; };
+		4B95C14C2C0419D5006A5929 /* Peristiwa3Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1452C0419D5006A5929 /* Peristiwa3Sedih.m4a */; };
+		4B95C14D2C0419D5006A5929 /* Peristiwa4Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1462C0419D5006A5929 /* Peristiwa4Sedih.m4a */; };
+		4B95C14E2C0419D5006A5929 /* Peristiwa4Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1462C0419D5006A5929 /* Peristiwa4Sedih.m4a */; };
+		4B95C14F2C0419D5006A5929 /* Peristiwa1Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1472C0419D5006A5929 /* Peristiwa1Sedih.m4a */; };
+		4B95C1502C0419D5006A5929 /* Peristiwa1Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1472C0419D5006A5929 /* Peristiwa1Sedih.m4a */; };
+		4B95C1512C0419D5006A5929 /* Peristiwa2Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1482C0419D5006A5929 /* Peristiwa2Sedih.m4a */; };
+		4B95C1522C0419D5006A5929 /* Peristiwa2Sedih.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1482C0419D5006A5929 /* Peristiwa2Sedih.m4a */; };
+		4B95C1582C041DD4006A5929 /* Peristiwa3Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1532C041DD4006A5929 /* Peristiwa3Terang.m4a */; };
+		4B95C1592C041DD4006A5929 /* Peristiwa3Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1532C041DD4006A5929 /* Peristiwa3Terang.m4a */; };
+		4B95C15A2C041DD4006A5929 /* Peristiwa1Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1542C041DD4006A5929 /* Peristiwa1Terang.m4a */; };
+		4B95C15B2C041DD4006A5929 /* Peristiwa1Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1542C041DD4006A5929 /* Peristiwa1Terang.m4a */; };
+		4B95C15C2C041DD4006A5929 /* Peristiwa4Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1552C041DD4006A5929 /* Peristiwa4Terang.m4a */; };
+		4B95C15D2C041DD4006A5929 /* Peristiwa4Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1552C041DD4006A5929 /* Peristiwa4Terang.m4a */; };
+		4B95C15E2C041DD4006A5929 /* Peristiwa2Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1562C041DD4006A5929 /* Peristiwa2Terang.m4a */; };
+		4B95C15F2C041DD4006A5929 /* Peristiwa2Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1562C041DD4006A5929 /* Peristiwa2Terang.m4a */; };
+		4B95C1602C041DD4006A5929 /* Peristiwa5Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1572C041DD4006A5929 /* Peristiwa5Terang.m4a */; };
+		4B95C1612C041DD4006A5929 /* Peristiwa5Terang.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1572C041DD4006A5929 /* Peristiwa5Terang.m4a */; };
+		4B95C1672C04203C006A5929 /* Peristiwa1Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1622C04203C006A5929 /* Peristiwa1Mulia.m4a */; };
+		4B95C1682C04203C006A5929 /* Peristiwa1Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1622C04203C006A5929 /* Peristiwa1Mulia.m4a */; };
+		4B95C1692C04203C006A5929 /* Peristiwa2Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1632C04203C006A5929 /* Peristiwa2Mulia.m4a */; };
+		4B95C16A2C04203C006A5929 /* Peristiwa2Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1632C04203C006A5929 /* Peristiwa2Mulia.m4a */; };
+		4B95C16B2C04203C006A5929 /* Peristiwa4Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1642C04203C006A5929 /* Peristiwa4Mulia.m4a */; };
+		4B95C16C2C04203C006A5929 /* Peristiwa4Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1642C04203C006A5929 /* Peristiwa4Mulia.m4a */; };
+		4B95C16D2C04203C006A5929 /* Peristiwa3Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1652C04203C006A5929 /* Peristiwa3Mulia.m4a */; };
+		4B95C16E2C04203C006A5929 /* Peristiwa3Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1652C04203C006A5929 /* Peristiwa3Mulia.m4a */; };
+		4B95C16F2C04203C006A5929 /* Peristiwa5Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1662C04203C006A5929 /* Peristiwa5Mulia.m4a */; };
+		4B95C1702C04203C006A5929 /* Peristiwa5Mulia.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4B95C1662C04203C006A5929 /* Peristiwa5Mulia.m4a */; };
+		4BD696E02BFB378100DF294C /* Rosbeads Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 4BD696DF2BFB378100DF294C /* Rosbeads Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		4BD696E52BFB378100DF294C /* RosbeadsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD696E42BFB378100DF294C /* RosbeadsApp.swift */; };
+		4BD696E72BFB378100DF294C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD696E62BFB378100DF294C /* ContentView.swift */; };
+		4BD696E92BFB378200DF294C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BD696E82BFB378200DF294C /* Assets.xcassets */; };
+		4BD696EC2BFB378200DF294C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BD696EB2BFB378200DF294C /* Preview Assets.xcassets */; };
+		4BEC7A942BFD097B002B9784 /* PeristiwaGembira.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEC7A932BFD097B002B9784 /* PeristiwaGembira.swift */; };
+		4BEC7A972BFD0A09002B9784 /* PeristiwaSedih.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEC7A962BFD0A09002B9784 /* PeristiwaSedih.swift */; };
+		4BEC7A992BFD0AA8002B9784 /* BeadCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEC7A982BFD0AA8002B9784 /* BeadCircle.swift */; };
+		4BEC7A9B2BFD0B07002B9784 /* PeristiwaTerang.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEC7A9A2BFD0B07002B9784 /* PeristiwaTerang.swift */; };
+		4BEC7A9D2BFD0B5D002B9784 /* PeristiwaMulia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEC7A9C2BFD0B5D002B9784 /* PeristiwaMulia.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4BD696E12BFB378100DF294C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4BD696D32BFB378100DF294C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4BD696DE2BFB378100DF294C;
+			remoteInfo = "Rosbeads Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		4BD696F22BFB378200DF294C /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				4BD696E02BFB378100DF294C /* Rosbeads Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		4B95C1252C0416B2006A5929 /* Peristiwa2.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Peristiwa2.m4a; sourceTree = "<group>"; };
+		4B95C1262C0416B2006A5929 /* Peristiwa5.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Peristiwa5.m4a; sourceTree = "<group>"; };
+		4B95C1272C0416B2006A5929 /* Pertistiwa3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pertistiwa3.m4a; sourceTree = "<group>"; };
+		4B95C1282C0416B2006A5929 /* Salam ya Ratu.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Salam ya Ratu.m4a"; sourceTree = "<group>"; };
+		4B95C1292C0416B2006A5929 /* Peristiwa1.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Peristiwa1.m4a; sourceTree = "<group>"; };
+		4B95C12A2C0416B2006A5929 /* Peristiwa4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Peristiwa4.m4a; sourceTree = "<group>"; };
+		4B95C1442C0419D5006A5929 /* Peristiwa5Sedih.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa5Sedih.m4a; path = ../../../../Peristiwa5Sedih.m4a; sourceTree = "<group>"; };
+		4B95C1452C0419D5006A5929 /* Peristiwa3Sedih.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa3Sedih.m4a; path = ../../../../Peristiwa3Sedih.m4a; sourceTree = "<group>"; };
+		4B95C1462C0419D5006A5929 /* Peristiwa4Sedih.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa4Sedih.m4a; path = ../../../../Peristiwa4Sedih.m4a; sourceTree = "<group>"; };
+		4B95C1472C0419D5006A5929 /* Peristiwa1Sedih.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa1Sedih.m4a; path = ../../../../Peristiwa1Sedih.m4a; sourceTree = "<group>"; };
+		4B95C1482C0419D5006A5929 /* Peristiwa2Sedih.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa2Sedih.m4a; path = ../../../../Peristiwa2Sedih.m4a; sourceTree = "<group>"; };
+		4B95C1532C041DD4006A5929 /* Peristiwa3Terang.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa3Terang.m4a; path = ../../../../Peristiwa3Terang.m4a; sourceTree = "<group>"; };
+		4B95C1542C041DD4006A5929 /* Peristiwa1Terang.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa1Terang.m4a; path = ../../../../Peristiwa1Terang.m4a; sourceTree = "<group>"; };
+		4B95C1552C041DD4006A5929 /* Peristiwa4Terang.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa4Terang.m4a; path = ../../../../Peristiwa4Terang.m4a; sourceTree = "<group>"; };
+		4B95C1562C041DD4006A5929 /* Peristiwa2Terang.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa2Terang.m4a; path = ../../../../Peristiwa2Terang.m4a; sourceTree = "<group>"; };
+		4B95C1572C041DD4006A5929 /* Peristiwa5Terang.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa5Terang.m4a; path = ../../../../Peristiwa5Terang.m4a; sourceTree = "<group>"; };
+		4B95C1622C04203C006A5929 /* Peristiwa1Mulia.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa1Mulia.m4a; path = ../../../../Peristiwa1Mulia.m4a; sourceTree = "<group>"; };
+		4B95C1632C04203C006A5929 /* Peristiwa2Mulia.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa2Mulia.m4a; path = ../../../../Peristiwa2Mulia.m4a; sourceTree = "<group>"; };
+		4B95C1642C04203C006A5929 /* Peristiwa4Mulia.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa4Mulia.m4a; path = ../../../../Peristiwa4Mulia.m4a; sourceTree = "<group>"; };
+		4B95C1652C04203C006A5929 /* Peristiwa3Mulia.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa3Mulia.m4a; path = ../../../../Peristiwa3Mulia.m4a; sourceTree = "<group>"; };
+		4B95C1662C04203C006A5929 /* Peristiwa5Mulia.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Peristiwa5Mulia.m4a; path = ../../../../Peristiwa5Mulia.m4a; sourceTree = "<group>"; };
+		4BD696D92BFB378100DF294C /* Rosbeads.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rosbeads.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BD696DF2BFB378100DF294C /* Rosbeads Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rosbeads Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BD696E42BFB378100DF294C /* RosbeadsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RosbeadsApp.swift; sourceTree = "<group>"; };
+		4BD696E62BFB378100DF294C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4BD696E82BFB378200DF294C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4BD696EB2BFB378200DF294C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4BEC7A932BFD097B002B9784 /* PeristiwaGembira.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeristiwaGembira.swift; sourceTree = "<group>"; };
+		4BEC7A962BFD0A09002B9784 /* PeristiwaSedih.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeristiwaSedih.swift; sourceTree = "<group>"; };
+		4BEC7A982BFD0AA8002B9784 /* BeadCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeadCircle.swift; sourceTree = "<group>"; };
+		4BEC7A9A2BFD0B07002B9784 /* PeristiwaTerang.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeristiwaTerang.swift; sourceTree = "<group>"; };
+		4BEC7A9C2BFD0B5D002B9784 /* PeristiwaMulia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeristiwaMulia.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4BD696DC2BFB378100DF294C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4B4A5F972BFEF4BD005CFF0D /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				4B95C13A2C0416E8006A5929 /* Audio Peristiwa Mulia */,
+				4B95C1392C0416DE006A5929 /* Audio Peristiwa Terang */,
+				4B95C1382C0416D2006A5929 /* Audio Peristiwa Sedih */,
+				4B95C1372C0416BC006A5929 /* Audio Peristiwa Gembira */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		4B95C1372C0416BC006A5929 /* Audio Peristiwa Gembira */ = {
+			isa = PBXGroup;
+			children = (
+				4B95C1292C0416B2006A5929 /* Peristiwa1.m4a */,
+				4B95C1252C0416B2006A5929 /* Peristiwa2.m4a */,
+				4B95C12A2C0416B2006A5929 /* Peristiwa4.m4a */,
+				4B95C1262C0416B2006A5929 /* Peristiwa5.m4a */,
+				4B95C1272C0416B2006A5929 /* Pertistiwa3.m4a */,
+				4B95C1282C0416B2006A5929 /* Salam ya Ratu.m4a */,
+			);
+			path = "Audio Peristiwa Gembira";
+			sourceTree = "<group>";
+		};
+		4B95C1382C0416D2006A5929 /* Audio Peristiwa Sedih */ = {
+			isa = PBXGroup;
+			children = (
+				4B95C1472C0419D5006A5929 /* Peristiwa1Sedih.m4a */,
+				4B95C1482C0419D5006A5929 /* Peristiwa2Sedih.m4a */,
+				4B95C1452C0419D5006A5929 /* Peristiwa3Sedih.m4a */,
+				4B95C1462C0419D5006A5929 /* Peristiwa4Sedih.m4a */,
+				4B95C1442C0419D5006A5929 /* Peristiwa5Sedih.m4a */,
+			);
+			path = "Audio Peristiwa Sedih";
+			sourceTree = "<group>";
+		};
+		4B95C1392C0416DE006A5929 /* Audio Peristiwa Terang */ = {
+			isa = PBXGroup;
+			children = (
+				4B95C1542C041DD4006A5929 /* Peristiwa1Terang.m4a */,
+				4B95C1562C041DD4006A5929 /* Peristiwa2Terang.m4a */,
+				4B95C1532C041DD4006A5929 /* Peristiwa3Terang.m4a */,
+				4B95C1552C041DD4006A5929 /* Peristiwa4Terang.m4a */,
+				4B95C1572C041DD4006A5929 /* Peristiwa5Terang.m4a */,
+			);
+			path = "Audio Peristiwa Terang";
+			sourceTree = "<group>";
+		};
+		4B95C13A2C0416E8006A5929 /* Audio Peristiwa Mulia */ = {
+			isa = PBXGroup;
+			children = (
+				4B95C1622C04203C006A5929 /* Peristiwa1Mulia.m4a */,
+				4B95C1632C04203C006A5929 /* Peristiwa2Mulia.m4a */,
+				4B95C1652C04203C006A5929 /* Peristiwa3Mulia.m4a */,
+				4B95C1642C04203C006A5929 /* Peristiwa4Mulia.m4a */,
+				4B95C1662C04203C006A5929 /* Peristiwa5Mulia.m4a */,
+			);
+			path = "Audio Peristiwa Mulia";
+			sourceTree = "<group>";
+		};
+		4BD696D22BFB378100DF294C = {
+			isa = PBXGroup;
+			children = (
+				4BD696E32BFB378100DF294C /* Rosbeads Watch App */,
+				4BD696DA2BFB378100DF294C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4BD696DA2BFB378100DF294C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4BD696D92BFB378100DF294C /* Rosbeads.app */,
+				4BD696DF2BFB378100DF294C /* Rosbeads Watch App.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4BD696E32BFB378100DF294C /* Rosbeads Watch App */ = {
+			isa = PBXGroup;
+			children = (
+				4BD696E42BFB378100DF294C /* RosbeadsApp.swift */,
+				4BD696E62BFB378100DF294C /* ContentView.swift */,
+				4BEC7A982BFD0AA8002B9784 /* BeadCircle.swift */,
+				4BEC7A952BFD09EF002B9784 /* Peristiwa */,
+				4B4A5F972BFEF4BD005CFF0D /* Audio */,
+				4BD696E82BFB378200DF294C /* Assets.xcassets */,
+				4BD696EA2BFB378200DF294C /* Preview Content */,
+			);
+			path = "Rosbeads Watch App";
+			sourceTree = "<group>";
+		};
+		4BD696EA2BFB378200DF294C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				4BD696EB2BFB378200DF294C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4BEC7A952BFD09EF002B9784 /* Peristiwa */ = {
+			isa = PBXGroup;
+			children = (
+				4BEC7A932BFD097B002B9784 /* PeristiwaGembira.swift */,
+				4BEC7A962BFD0A09002B9784 /* PeristiwaSedih.swift */,
+				4BEC7A9A2BFD0B07002B9784 /* PeristiwaTerang.swift */,
+				4BEC7A9C2BFD0B5D002B9784 /* PeristiwaMulia.swift */,
+			);
+			path = Peristiwa;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4BD696D82BFB378100DF294C /* Rosbeads */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4BD696F32BFB378200DF294C /* Build configuration list for PBXNativeTarget "Rosbeads" */;
+			buildPhases = (
+				4BD696D72BFB378100DF294C /* Resources */,
+				4BD696F22BFB378200DF294C /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4BD696E22BFB378100DF294C /* PBXTargetDependency */,
+			);
+			name = Rosbeads;
+			productName = Rosbeads;
+			productReference = 4BD696D92BFB378100DF294C /* Rosbeads.app */;
+			productType = "com.apple.product-type.application.watchapp2-container";
+		};
+		4BD696DE2BFB378100DF294C /* Rosbeads Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4BD696EF2BFB378200DF294C /* Build configuration list for PBXNativeTarget "Rosbeads Watch App" */;
+			buildPhases = (
+				4BD696DB2BFB378100DF294C /* Sources */,
+				4BD696DC2BFB378100DF294C /* Frameworks */,
+				4BD696DD2BFB378100DF294C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Rosbeads Watch App";
+			productName = "Rosbeads Watch App";
+			productReference = 4BD696DF2BFB378100DF294C /* Rosbeads Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4BD696D32BFB378100DF294C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					4BD696D82BFB378100DF294C = {
+						CreatedOnToolsVersion = 15.3;
+					};
+					4BD696DE2BFB378100DF294C = {
+						CreatedOnToolsVersion = 15.3;
+					};
+				};
+			};
+			buildConfigurationList = 4BD696D62BFB378100DF294C /* Build configuration list for PBXProject "Rosbeads" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4BD696D22BFB378100DF294C;
+			productRefGroup = 4BD696DA2BFB378100DF294C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4BD696D82BFB378100DF294C /* Rosbeads */,
+				4BD696DE2BFB378100DF294C /* Rosbeads Watch App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4BD696D72BFB378100DF294C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B95C1352C0416B2006A5929 /* Peristiwa4.m4a in Resources */,
+				4B95C14B2C0419D5006A5929 /* Peristiwa3Sedih.m4a in Resources */,
+				4B95C1602C041DD4006A5929 /* Peristiwa5Terang.m4a in Resources */,
+				4B95C1692C04203C006A5929 /* Peristiwa2Mulia.m4a in Resources */,
+				4B95C1672C04203C006A5929 /* Peristiwa1Mulia.m4a in Resources */,
+				4B95C1332C0416B2006A5929 /* Peristiwa1.m4a in Resources */,
+				4B95C16F2C04203C006A5929 /* Peristiwa5Mulia.m4a in Resources */,
+				4B95C16B2C04203C006A5929 /* Peristiwa4Mulia.m4a in Resources */,
+				4B95C12B2C0416B2006A5929 /* Peristiwa2.m4a in Resources */,
+				4B95C14D2C0419D5006A5929 /* Peristiwa4Sedih.m4a in Resources */,
+				4B95C1492C0419D5006A5929 /* Peristiwa5Sedih.m4a in Resources */,
+				4B95C15E2C041DD4006A5929 /* Peristiwa2Terang.m4a in Resources */,
+				4B95C14F2C0419D5006A5929 /* Peristiwa1Sedih.m4a in Resources */,
+				4B95C1512C0419D5006A5929 /* Peristiwa2Sedih.m4a in Resources */,
+				4B95C1582C041DD4006A5929 /* Peristiwa3Terang.m4a in Resources */,
+				4B95C16D2C04203C006A5929 /* Peristiwa3Mulia.m4a in Resources */,
+				4B95C15C2C041DD4006A5929 /* Peristiwa4Terang.m4a in Resources */,
+				4B95C15A2C041DD4006A5929 /* Peristiwa1Terang.m4a in Resources */,
+				4B95C1312C0416B2006A5929 /* Salam ya Ratu.m4a in Resources */,
+				4B95C12D2C0416B2006A5929 /* Peristiwa5.m4a in Resources */,
+				4B95C12F2C0416B2006A5929 /* Pertistiwa3.m4a in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4BD696DD2BFB378100DF294C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B95C1702C04203C006A5929 /* Peristiwa5Mulia.m4a in Resources */,
+				4B95C14C2C0419D5006A5929 /* Peristiwa3Sedih.m4a in Resources */,
+				4B95C15D2C041DD4006A5929 /* Peristiwa4Terang.m4a in Resources */,
+				4B95C1612C041DD4006A5929 /* Peristiwa5Terang.m4a in Resources */,
+				4B95C1682C04203C006A5929 /* Peristiwa1Mulia.m4a in Resources */,
+				4BD696EC2BFB378200DF294C /* Preview Assets.xcassets in Resources */,
+				4B95C14A2C0419D5006A5929 /* Peristiwa5Sedih.m4a in Resources */,
+				4B95C16C2C04203C006A5929 /* Peristiwa4Mulia.m4a in Resources */,
+				4BD696E92BFB378200DF294C /* Assets.xcassets in Resources */,
+				4B95C1362C0416B2006A5929 /* Peristiwa4.m4a in Resources */,
+				4B95C12C2C0416B2006A5929 /* Peristiwa2.m4a in Resources */,
+				4B95C16A2C04203C006A5929 /* Peristiwa2Mulia.m4a in Resources */,
+				4B95C1322C0416B2006A5929 /* Salam ya Ratu.m4a in Resources */,
+				4B95C14E2C0419D5006A5929 /* Peristiwa4Sedih.m4a in Resources */,
+				4B95C12E2C0416B2006A5929 /* Peristiwa5.m4a in Resources */,
+				4B95C1522C0419D5006A5929 /* Peristiwa2Sedih.m4a in Resources */,
+				4B95C1302C0416B2006A5929 /* Pertistiwa3.m4a in Resources */,
+				4B95C16E2C04203C006A5929 /* Peristiwa3Mulia.m4a in Resources */,
+				4B95C1502C0419D5006A5929 /* Peristiwa1Sedih.m4a in Resources */,
+				4B95C1592C041DD4006A5929 /* Peristiwa3Terang.m4a in Resources */,
+				4B95C1342C0416B2006A5929 /* Peristiwa1.m4a in Resources */,
+				4B95C15B2C041DD4006A5929 /* Peristiwa1Terang.m4a in Resources */,
+				4B95C15F2C041DD4006A5929 /* Peristiwa2Terang.m4a in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4BD696DB2BFB378100DF294C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4BEC7A972BFD0A09002B9784 /* PeristiwaSedih.swift in Sources */,
+				4BEC7A9B2BFD0B07002B9784 /* PeristiwaTerang.swift in Sources */,
+				4BD696E72BFB378100DF294C /* ContentView.swift in Sources */,
+				4BEC7A9D2BFD0B5D002B9784 /* PeristiwaMulia.swift in Sources */,
+				4BEC7A992BFD0AA8002B9784 /* BeadCircle.swift in Sources */,
+				4BD696E52BFB378100DF294C /* RosbeadsApp.swift in Sources */,
+				4BEC7A942BFD097B002B9784 /* PeristiwaGembira.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4BD696E22BFB378100DF294C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4BD696DE2BFB378100DF294C /* Rosbeads Watch App */;
+			targetProxy = 4BD696E12BFB378100DF294C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4BD696ED2BFB378200DF294C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4BD696EE2BFB378200DF294C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		4BD696F02BFB378200DF294C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Rosbeads Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 9583KK75Q4;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Rosbeads;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftrealityxr.Rosbeads.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
+		4BD696F12BFB378200DF294C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Rosbeads Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 9583KK75Q4;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Rosbeads;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftrealityxr.Rosbeads.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Release;
+		};
+		4BD696F42BFB378200DF294C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9583KK75Q4;
+				INFOPLIST_KEY_CFBundleDisplayName = Rosbeads;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftrealityxr.Rosbeads;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		4BD696F52BFB378200DF294C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9583KK75Q4;
+				INFOPLIST_KEY_CFBundleDisplayName = Rosbeads;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftrealityxr.Rosbeads;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4BD696D62BFB378100DF294C /* Build configuration list for PBXProject "Rosbeads" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4BD696ED2BFB378200DF294C /* Debug */,
+				4BD696EE2BFB378200DF294C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4BD696EF2BFB378200DF294C /* Build configuration list for PBXNativeTarget "Rosbeads Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4BD696F02BFB378200DF294C /* Debug */,
+				4BD696F12BFB378200DF294C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4BD696F32BFB378200DF294C /* Build configuration list for PBXNativeTarget "Rosbeads" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4BD696F42BFB378200DF294C /* Debug */,
+				4BD696F52BFB378200DF294C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4BD696D32BFB378100DF294C /* Project object */;
+}
